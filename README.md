@@ -1,28 +1,35 @@
 # vue-fire-auth
 
-This template should help get you started developing with Vue 3 in Vite.
+Este es un demo que utiliza Firebase para base de datos, firebase Authentication para manejar los accesos por usuario y Firebase Hosting para subir a producción el proyecto.
 
-## Recommended IDE Setup
+## Descripción del proyecto
+
+Una aplicación web que contiene autenticación, con 3 vistas (HomeView, LoginView, SignUpView), dos componentes uno para el registro de usuarios nuevos (RegisterForm.vue) y otro para el inicio de sesión (LoginForm.vue).
+
+## Demo
+Puede ver el demo en funcionamiento aquí [Demo](https://fir-auth-782e7.web.app/login)
+
+## Configuración IDE recomendada
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Personalizar la configuración
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Visite [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## Configuración del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar y recargar para el desarrollo
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### CCompilar y minimizar para producción
 
 ```sh
 npm run build
