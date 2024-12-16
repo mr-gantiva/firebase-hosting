@@ -7,7 +7,7 @@ Este es un demo que utiliza Firebase para base de datos, firebase Authentication
 Una aplicación web que contiene autenticación, con 3 vistas (HomeView, LoginView, SignUpView), dos componentes uno para el registro de usuarios nuevos (RegisterForm.vue) y otro para el inicio de sesión (LoginForm.vue).
 
 ## Demo
-Puede ver el demo en funcionamiento aquí [Demo](https://fir-auth-782e7.web.app/login)
+Puede ver el demo en funcionamiento aquí [Demo](https://fir-auth-782e7.web.app)
 
 ## Configuración IDE recomendada
 
